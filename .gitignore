@@ -2,3 +2,4 @@
 node_modules
 public/bundle.js
 React_ReduxApp.iml
+package-lock.json
